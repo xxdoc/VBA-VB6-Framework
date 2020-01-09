@@ -1,5 +1,5 @@
 Attribute VB_Name = "Files"
-'@Folder("MyLibrary.CommonMethods")
+'@Folder("Framework.Common")
 
 Option Explicit
 Option Private Module

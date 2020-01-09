@@ -7,7 +7,7 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = False
 Attribute VB_Exposed = False
-'@Folder("MyLibrary.ListT")
+'@Folder("Framework.Common.ListT")
 Option Explicit
 
 Private Const UNSAFE_TYPE_ERROR As Integer = 13

@@ -1,3 +1,3 @@
 # VBA-VB6-Framework
 
-.Net like library for VBA/VB6 
+a slowly growing .Net like library for VBA/VB6
